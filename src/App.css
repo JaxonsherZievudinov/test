@@ -1,0 +1,87 @@
+*{
+    font-family: "regular";
+}
+
+@font-face {
+    font-family: "semibold";
+    src: url(./assets/Gilroy-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: "bold";
+    src: url(./assets/Gilroy-Bold.ttf);
+}
+
+@font-face {
+    font-family: "medium";
+    src: url(./assets/Gilroy-Medium.ttf);
+}
+
+@font-face {
+    font-family: "regular";
+    src: url(./assets/Gilroy-Regular.ttf);
+}
+
+@font-face {
+    font-family: "extrabold";
+    src: url(./assets/Gilroy-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: "light";
+    src: url(./assets/Gilroy-Light.ttf);
+}
+
+.btnContact{
+    background: linear-gradient(90deg, #00C97B 0%, #00D981 96.96%);
+}
+
+.startPage{
+    background: linear-gradient(79.63deg, #5B52A3 1.08%, #40B8EA 100%);
+}
+
+.swiper {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+  
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .header-section{
+    background: linear-gradient(79.63deg, #5B52A3 1.08%, #40B8EA 100%);
+  }
+
+
+
+
+ *::-webkit-scrollbar-track {
+    border-radius: 0px;
+    background-color: #eee;
+  }
+  
+  
+  *::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background: linear-gradient(90deg, #00c97b, #00d981 96.96%);
+  }
+
+  ::-webkit-scrollbar {
+    width: 6px;
+    background: #c0c9d7;
+  }
+  ::-webkit-scrollbar:hover {
+    cursor: pointer;
+  }
+
+  .st{
+    padding-right: 0!important;
+  }

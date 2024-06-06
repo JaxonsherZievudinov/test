@@ -1,0 +1,124 @@
+{
+    "header": {
+      "nav": {
+        "li1": "How to Buy",
+        "li2": "Sales",
+        "li3": "Prices",
+        "li4": "Help",
+        "li5": "Bonuses",
+        "li6": "Blog",
+        "li7": "Stores",
+        
+        "signIn": "Sign In",
+        "contact": "Contact Us"
+      },
+      
+      "startPage": {
+        "hero-text": "Delivery of Goods from the UK to Russia",
+        "desc": "Start saving up to 80% on shopping. Register with OkeyPost to buy discounted clothing, shoes, gadgets from famous UK brands, and safely send items to Russia.",
+        "btn": "Get an Address in the UK"
+      },
+      
+      "card2": {
+        "desc1": "Price in Russia",
+        "desc2": "Price in the UK"
+      },
+      
+      "bottomSec": {
+        "desc": "Approximate delivery time 10 days",
+        "title": "You save up to $119.56"
+      },
+      
+      "card3": {
+        "title1": "Save up to 70%",
+        "title2": "Only Genuine Products",
+        "title3": "Fast Delivery",
+        "title4": "Huge Selection of Goods"
+      },
+      
+      "section1": {
+        "title": "Let our shopping experts handle orders in English stores and free up time for more important matters.",
+        "desc": "This method of purchase is also suitable if the store only accepts English cards.",
+        "btn": "Try"
+      },
+      
+      "section4": {
+        "hero-text": "OkeyPost Convenient and Fast Delivery of Parcels from the UK",
+        "desc": "Calculate the cost of delivery from England to your home. We will receive your parcels at the warehouse, if necessary, consolidate several shipments into one and send them to you securely packaged.",
+        "card": {
+          "title1": "Country:",
+          "name1": "Russia",
+          "title2": "City:",
+          "name2": "Moscow",
+          "title3": "Index:",
+          "name3": "Enter Index",
+          "title4": "Parcel Weight:",
+          "name4": "0.5",
+          "title5": "Additional Services:",
+          "name5": "Select Services"
+        }
+      },
+      
+      "section5": {
+        "hero-text": "Delivery Options:",
+        "card": {
+          "title1": "Russian Post",
+          "time1": "10-14 days",
+          "price1": "from £27.00",
+          "all1": "£41.99"
+        }
+      },
+      
+      "section6": {
+        "hero-text": "4 Simple Steps for Your Purchases in the UK",
+        "card": {
+          "title1": "YOU CHOOSE A PRODUCT",
+          "desc1": "in an English store, pay for it, and provide the OkeyPost warehouse address"
+        },
+        "desc": "If you don't want to deal with it yourself, our shopping experts will be happy to buy all the products for you.",
+        "btn": "Quick Purchase"
+      },
+      
+      "section7": {
+        "title": "Virtual Tour of Our Warehouse in Real Time",
+        "desc": "You can always see our smooth operation at the warehouse."
+      },
+      
+      "section8": {
+        "hero-text": "120,000 Satisfied Customers in Russia Have Already Made Their Choice",
+        "desc": "Over the past year, tens of thousands of our customers have ordered goods from England and left 19,633 reviews.",
+        "card": {
+          "title1": "More Doesn't Mean More Expensive",
+          "desc1": "As the weight of the parcel increases, the price for every 0.5 kg decreases progressively."
+        }
+      },
+      
+      "section9": {
+        "hero-text": "Reviews and Quotes from Bloggers:",
+        "card": {
+          "desc1": "Your delivery is the fastest and cheapest!!!",
+          "date": "November 16, 2021",
+          "city": "Saint Petersburg"
+        },
+        "btn": "All Reviews"
+      },
+      
+      "section10": {
+        "title": "Subscribe and Stay Informed of All Discounts and Promotions from UK Stores!",
+        "email": "Enter your email",
+        "btn": "Subscribe"
+      }
+    },
+    
+    "footer": {
+      "theadUl1": "About Company",
+      "li1": "Services",
+      "li2": "Prices",
+      "li3": "Reviews",
+      "li4": "Contacts",
+      "li5": "Careers",
+      "li6": "Personal Data Processing Agreement",
+      "li7": "Terms of Use"
+    }
+  }
+  
